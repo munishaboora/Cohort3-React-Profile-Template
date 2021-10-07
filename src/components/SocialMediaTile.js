@@ -4,11 +4,11 @@ import { BiGlobe } from 'react-icons/bi';
 
 function SocialMediaTile (props) {
     return (
-        <div>
-            <h1>Social Media</h1>
-            <div><BiGlobe/> {props.Website} </div>
-            <div><AiFillGithub /> {props.Github}</div>  
-            <div><AiFillInstagram /> {props.Instagram}</div>  
+        <div className="section">
+            <h1> Social Media Summary </h1>
+            <p> <BiGlobe/> {props.Website} </p>
+            <p> <AiFillGithub /> {props.Github} </p>  
+            <p> <AiFillInstagram /> {props.Instagram} </p>  
         </div>
     );
 }
