@@ -24,7 +24,7 @@ function ProfileSummary () {
             </div>
 
             <div> 
-                <SocialMediaTile Github={details.Github} Instagram={details.Instagram} Website={details.Website} />  
+                <SocialMediaTile Github={details.Github} Instagram={details.Instagram} Website={details.Website} /> 
             </div>
                  
         </div>
