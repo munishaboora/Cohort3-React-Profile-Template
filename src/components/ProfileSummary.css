@@ -1,0 +1,38 @@
+body{
+  margin-top:20px;
+  color: #1a202c;
+  text-align: center;
+  background-color: #e2e8f0;    
+
+}
+
+p {
+    /* display: flex;
+    flex-direction: row; */
+    font-size: 20px;
+    color: #8ecae6;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+.profile-pic {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 1px solid #8ecae6;
+}
+
+.section {
+  margin-top: 20px;
+  height: auto;
+  width: auto;
+  align-items: left;
+
+  
+}
+
+h1{
+  font-size: 40px;
+  color: #219ebc;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  };
+
