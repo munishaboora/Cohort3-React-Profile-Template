@@ -1,7 +1,6 @@
 import React from 'react'
 import ProfileSummary from './ProfileSummary'
 
-
 function HomePage() {
     return (
       <div >
@@ -9,6 +8,5 @@ function HomePage() {
       </div>
     );
   }
-
 
 export default HomePage
